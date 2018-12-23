@@ -86,23 +86,49 @@ body {
 }
 
 
+/* Testimonials Section */
+
+.testimonials-container {
+    padding: 4% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonials-box {
+
+}
+
+#testimonials h2 {
+    font-size: 2.7rem;
+    font-weight: bold;
+}
+
+#testimonials img {
+    width: 20%;
+    margin: 10px 0 0;
+    border: 3px solid #fff;
+    border-radius: 15%;
+}
+
+#testimonials em {
+    font-weight: bold;
+}
 
 
+/* Press Section */
 
+.press-container {
+    padding: 0 15%;
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#press img {
+    max-width: 20%;
+    min-width: 15%;
+}
 
 
 
