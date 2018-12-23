@@ -95,24 +95,21 @@ body {
     color: #fff;
 }
 
-.testimonials-box {
-
-}
-
-#testimonials h2 {
+.carousel-item h2 {
     font-size: 2.7rem;
     font-weight: bold;
 }
 
-#testimonials img {
-    width: 20%;
-    margin: 10px 0 0;
+.carousel-item img {
+    margin: 10px 0 5px;;
     border: 3px solid #fff;
     border-radius: 15%;
+    margin: 0 auto;
 }
 
-#testimonials em {
-    font-weight: bold;
+.carousel-item em {
+    font-weight: normal;
+    text-align: center;
 }
 
 
@@ -128,6 +125,7 @@ body {
 #press img {
     max-width: 20%;
     min-width: 15%;
+    padding: 0 5px;
 }
 
 
