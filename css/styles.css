@@ -156,6 +156,10 @@ body {
     text-align: center;
 }
 
+.cta-container button {
+    margin: 0 5px;
+}
+
 
 /* Footer Section */
 
@@ -173,7 +177,7 @@ footer p {
 
 
 @media (max-width: 991px) {
-    
+
     #title {
         text-align: center;
     }
