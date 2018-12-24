@@ -89,7 +89,7 @@ body {
 /* Testimonials Section */
 
 .testimonials-container {
-    padding: 4% 15%;
+    padding: 5% 15%;
     text-align: center;
     background-color: #ef8172;
     color: #fff;
@@ -124,7 +124,7 @@ body {
     padding: 0 15%;
     background-color: #ef8172;
     text-align: center;
-    padding-bottom: 3%;
+    padding-bottom: 5%;
 }
 
 #press img {
@@ -134,7 +134,11 @@ body {
 }
 
 
+/* Pricing Section */
 
+.pricing-container {
+    padding: 3% 15%;
+}
 
 
 
