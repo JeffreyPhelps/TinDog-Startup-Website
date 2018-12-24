@@ -157,7 +157,7 @@ body {
 }
 
 .cta-container button {
-    margin: 0 5px;
+    margin: 10px 10px;
 }
 
 
@@ -191,10 +191,6 @@ footer p {
         transform: rotate(0);
         margin-top: 10px;
     }
-}
-
-@media (max-width: 900px) {
-    
 }
 
 
